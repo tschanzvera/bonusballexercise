@@ -6,7 +6,7 @@
 
 This was a little project was one of the first exercises I had in my MITxPRO course. The exercise was to make different one or various balls move in the page. 
 
-You can see it at https://tschanzvera.github.io/bonusballexercise/
+You can see it at https://tschanzvera.github.io/bonusballexercise/moveBall_bonus.html
 
 ## SUPPORT
 
